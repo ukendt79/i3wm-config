@@ -22,4 +22,6 @@ Diğer kısayollar aynı, yukarıdakiler sadece değiştirdiğim bölümü.
 
 ./renew.sh | Bu komuttan sonra mod+Shift+R tusları ile i3wm'i yeniden başlat.
 
+#Görünüm
+
 ![i3wm_desktop](https://user-images.githubusercontent.com/105305285/178129168-6aa27d36-4062-4630-bce6-f186b3b73311.png)
